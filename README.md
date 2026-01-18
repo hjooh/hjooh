@@ -4,10 +4,17 @@
   <br>
   <br>
   <br>
-  <img width="60" height="60" src="https://github.com/hjooh.png" style="border-radius: 50%;" />
+  <a href="https://github.com/hjooh">
+    <img src="https://github.com/hjooh.png" width="60" height="60" align="center" style="border-radius:50%;" />
+  </a>
   <br>
   
-  hi, I'm claire! I love yogurt, Tetris, and programming ☺︎
+  hi, I'm claire! I love yogurt, Tetris, and programming.
+
+  <br>
+  <br>
+  <br>
+  <br>
   
   <p>what's been occupying my brain lately:</p>
 

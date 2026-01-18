@@ -16,8 +16,6 @@
   <br>
   <br>
   
-  <p>what's been occupying my brain lately:</p>
-
   <p>
     <a href="mailto:h3jooh@gmail.com">email</a>
   </p>

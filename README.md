@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <img width="60" height="60" src="https://github.com/hjooh.png" style="border-radius: 50%;" />
+  <img width="60" height="60" src="https://github.com/hjooh" style="border-radius: 50%;" />
   <br>
   
   hi, I'm claire! I love yogurt, Tetris, and programming ☺︎

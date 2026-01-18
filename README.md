@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img width="60" height="60" src="https://github.com/hjooh.png" style="border-radius: 50%;" />
+  <br>
+  
+  hi, I'm claire! I love yogurt, Tetris, and programming ☺︎
+  
+  <p>what's been occupying my brain lately:</p>
 
-<!--
-**hjooh/hjooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="mailto:h3jooh@gmail.com">email</a>
+  </p>
+  <br>
+  <br>
+  <br>
+</div>

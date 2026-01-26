@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://github.com/hjooh">
-    <img src="https://github.com/hjooh.png" width="60" height="60" align="center" style="border-radius:50%;" />
+    <img src="https://github.com/hjooh.png" width="100" height="100" align="center" style="border-radius:50%;" />
   </a>
   <br> <br>
   
